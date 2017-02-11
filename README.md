@@ -6,7 +6,7 @@ Pacific Symposium on Biocomputing, 2015.
 ```
 
 DEPENDENCIES:
-python, numpy, scipy, scikit-learn
+python, numpy, scipy
 
 USAGE:
 
@@ -32,4 +32,3 @@ The code has been tested with:
 - python 2.7.10
 - numpy 1.8.0
 - scipy 0.13.0
-- sklearn 0.17.1
